@@ -67,6 +67,6 @@ namespace homework26._11
 	}
 }
 ```
-*result
+* result
 ![picture](result.png)
 
